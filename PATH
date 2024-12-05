@@ -1,0 +1,18 @@
+queso-coin/
+├── README.md
+├── LICENSE
+├── whitepaper/
+│   └── queso-coin-whitepaper.pdf
+├── tokenomics/
+│   └── tokenomics-summary.md
+├── smart-contracts/
+│   └── queso-coin-token-contract.rs
+├── assets/
+│   ├── logo.png
+│   └── promotional-banners.png
+├── roadmap/
+│   └── roadmap.md
+└── community/
+    ├── contributing.md
+
+    └── code-of-conduct.md
