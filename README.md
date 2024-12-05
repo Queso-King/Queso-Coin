@@ -40,7 +40,7 @@ Queso Coin’s tokenomics are designed for growth and stability:
 
 	•	50% Retained: Reserved for development, marketing, and community incentives.
 
-	•	50% Locked Liquidity: Ensures stability and market trust by burning LP tokens.
+	•	100% Locked Liquidity: Ensures stability and market trust by burning LP tokens.
 
 	•	Initial liquidity pool of 3.5 SOL on Raydium.
 
