@@ -17,9 +17,6 @@ Table of Contents
 9. Conclusion
 
 
-
-
-
 1. Introduction
 Cryptocurrencies have revolutionized the financial world, but for many, DeFi remains complex and intimidating. Queso Coin bridges this gap by offering a fun, user-friendly way to engage with DeFi while fostering financial literacy. Built on the Solana blockchain, $QUESO combines speed, scalability, and security to create a seamless experience for users.
 
@@ -63,7 +60,6 @@ These barriers prevent wider adoption of crypto technologies. Queso Coin aims to
   - Trading and governance participation.
 
 ---
-
 
 6. Roadmap
 Phase 1: Foundation
