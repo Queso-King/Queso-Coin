@@ -16,11 +16,10 @@ Table of Contents
 
 
 
-1. Introduction
+ Introduction
 Cryptocurrencies have revolutionized the financial world, but for many, DeFi is still complex and intimidating. Queso Coin bridges this gap by offering a fun, user-friendly way to engage with DeFi while fostering financial literacy. Built on the Solana blockchain, $QUESO combines speed, scalability, and security to create a seamless experience for users.
 
-
-2. Problem Statement
+Problem Statement
 Despite the growth of the cryptocurrency market, challenges such as:
 -	Lack of education about DeFi.
 -	High transaction fees on many blockchains.
@@ -29,11 +28,11 @@ Despite the growth of the cryptocurrency market, challenges such as:
 
 These barriers prevent wider adoption of crypto technologies. Queso Coin aims to address these issues by providing an intuitive and engaging platform for learning and using DeFi. Ongoing interaction with the community to remain transparent at every stage of the project. 
 
-3. Vision and Mission
+Vision and Mission
 **Vision**: To be a leader in DeFi education and adoption worldwide through interactive videos, learning modules, and an active community
 **Mission**: To empower individuals by simplifying DeFi concepts, promoting secure and low-cost transactions, and fostering a vibrant, global community.
 
-4. Key Features
+Key Features
 - **Education First**: Provide accessible resources to help users understand DeFi and blockchain basics.
 - **Fast and Affordable Transactions**: Leveraging Solana’s high-speed, low-cost infrastructure.
 - **Community Engagement**: Incentivize learning and participation through $QUESO rewards.
@@ -42,7 +41,7 @@ These barriers prevent wider adoption of crypto technologies. Queso Coin aims to
 
 
 
-5. Tokenomics
+Tokenomics
 o	**Total Supply**:  211,202,500 $QUESO
 o	**Distribution**:
 	Liquidity Pool: 50% - Fully locked & LP Tokens Burned 
@@ -69,7 +68,7 @@ o	**Future Utility**:
 
 
 
-6. Roadmap
+Roadmap
 •	Phase 1: Foundation
 o	Token launch on Solana blockchain.
 o	Build and deploy liquidity pool on Raydium.
@@ -87,13 +86,13 @@ o	Establish Queso Foundation to support education initiatives.
 o	Build partnerships with global educational and blockchain organizations.
 
 
-7. Partnerships and Ecosystem
+Partnerships and Ecosystem
 •	We aim to collaborate with:
 o	Solana-based projects for interoperability.
 o	Educational platforms to integrate Queso Coin as a learning reward.
 o	Crypto wallets like Phantom to enhance user accessibility.
 
- 8. Security and Audits
+Security and Audits
 -	Ensuring security and trust is critical for Queso Coin. Measures include:
 -	Transparent tokenomics and public disclosures.
 -	Community-driven monitoring and bug bounty programs.
@@ -101,7 +100,7 @@ o	Crypto wallets like Phantom to enhance user accessibility.
 
 
 
- 9. Conclusion
+Conclusion
 Queso Coin is more than just a cryptocurrency; it’s a movement to make DeFi approachable and inclusive. By combining education, fast transactions, and a supportive community, $QUESO aims to bring the benefits of decentralized finance to everyone. Join us on this journey to transform the financial world, one block at a time.
 
 Learn. Earn. Grow.
