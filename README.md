@@ -58,17 +58,21 @@ Liquidity Pool: 50% - Fully locked & LP Tokens Burned
 Community Rewards and Airdrops: 20%
 
 •	Rewards & Airdrops (Active): 8EKMuzpBttdysryAKi7H35yWEn9SeHPc6H4UmTjEZj9R
+
 •	Reserve Wallet: 6HXcHPCK3jeRcmoKs8SQc8uhVPW89ipyoHwPBZhVcMEg
 
 Development and Marketing: 20%
 
 •	5% token supply will be released every 4 weeks beginning January 31st through additional liquidity pools.
+
 •	Wallet 1: DaE52Uzfbp3mDrTzqwUYarXMjBoCeN4Z4kFCNS4tUqxB
+
 •	Wallet 2: GUiTCAo5TtHTnvNKmCQxWxsEid9d6HW7CozwUVGytrpw
 
 Team and Advisors: 10% (vesting schedule applies)
 
 •	Vested for one year – Quarterly withdrawals in Year Two
+
 •	Wallet: CbxgRp7THYwek7rzq1svXHVgXnc4Ty32u3Unr6RLJex1
 
 o	**Future Utility**: 
