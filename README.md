@@ -50,9 +50,13 @@ Key Features
 Tokenomics
 
 o	**Total Supply**:  211,202,500 $QUESO
+
 o	**Distribution**:
+
 Liquidity Pool: 50% - Fully locked & LP Tokens Burned 
+
 •	Created on Raydium with .25% fees and all rewards going back to the initial pool
+
 •	Pair: YeTxUgiMyToiL7AdsvBaJt2NTy4oZX2eRmmEZSLXFfp
 
 Community Rewards and Airdrops: 20%
@@ -89,26 +93,34 @@ Trading and governance participation.
 
 Roadmap
 
-•	Phase 1: Foundation
+Phase 1: Foundation
+
 o	Token launch on Solana blockchain.
 o	Build and deploy liquidity pool on Raydium.
 o	Conduct initial airdrop campaigns.
-•	Phase 2: Community Growth
+
+Phase 2: Community Growth
+
 o	Launch Queso Coin website and educational platform.
 o	Partner with DeFi platforms and tools.
 o	Expand social media presence and influencer collaborations.
-•	Phase 3: Ecosystem Expansion  
+
+Phase 3: Ecosystem Expansion  
+
 o	Introduce staking rewards and DeFi integrations.
 o	List with additional centralized and decentralized exchanges.
 o	Develop governance mechanisms through NFTs & participation rewards.
-•	Phase 4: Long-term Goals 
+
+Phase 4: Long-term Goals 
+
 o	Establish Queso Foundation to support education initiatives.
 o	Build partnerships with global educational and blockchain organizations.
 
 
 Partnerships and Ecosystem
 
-•	We aim to collaborate with:
+We aim to collaborate with:
+
 o	Solana-based projects for interoperability.
 o	Educational platforms to integrate Queso Coin as a learning reward.
 o	Crypto wallets like Phantom to enhance user accessibility.
@@ -132,7 +144,11 @@ Learn. Earn. Grow.
 
 Contact and Socials
 Website: www.quesocoin.com 
+
 Instagram: @queso_coin
+
 Facebook: Queso Coin
+
 Tiktok: @quesocoinofficial
+
 Telegram: https://t.me/quesofam
