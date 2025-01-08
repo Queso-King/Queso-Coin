@@ -1,6 +1,7 @@
  Queso Coin Whitepaper
 
 Abstract
+
 Queso Coin ($QUESO) is a Solana-based cryptocurrency designed to simplify decentralized finance (DeFi) and make it accessible to everyone. Our mission is to empower individuals to learn, earn, and grow through the world of DeFi, with a focus on education, security, and usability. By integrating fast transactions, low fees, and community engagement, Queso Coin provides a friendly gateway for both beginners and seasoned crypto enthusiasts.
 
 Table of Contents
